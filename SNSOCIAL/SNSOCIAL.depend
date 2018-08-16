@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496290621 source:e:\baitap\snsocial\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

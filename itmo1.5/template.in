@@ -1,0 +1,16 @@
+3 2
+abc
+def
+
+Pascal
+begin
+  reset(input, 'filename.in');
+  rewrite(output, 'filename.out');
+end.
+
+С
+int main()
+{
+    freopen("filename.in", "r", stdin);
+    freopen("filename.out", "w", stdout);
+}

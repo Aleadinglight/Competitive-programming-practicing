@@ -1,0 +1,21 @@
+import burlap.domain.singleagent.graphdefined.GraphDefinedDomain;
+import burlap.oomdp.auxiliary.DomainGenerator;
+import burlap.oomdp.core.*;
+
+public class FirstMDP {
+	DomainGenerator dg;
+	Domain domain;
+	
+	public FirstMDP() {
+		int numStates = 6;
+		this.dg = new GraphDefinedDomain(numStates);
+		this.domain = this.dg.generateDomain();
+		this.initState = GraphDefinedDomain.getState(this.domain, sNode);
+	}
+	
+	public static void main(String[] args) {
+        // You can add test code here that will be executed when you click "Test Run".
+    	FirstMDP fmdp = new FirstMDP();
+    	System.out.print("<3 Nha An");
+    }
+}

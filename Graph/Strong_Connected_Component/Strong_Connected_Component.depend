@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1485561936 source:e:\baitap\graph\strong_connected_component\main.cpp
+	<stdio.h>
+	<stack>
+

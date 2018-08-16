@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526832793 source:e:\baitap\chefrun\main.cpp
+	<iostream>
+	<math.h>
+	<algorithm>
+

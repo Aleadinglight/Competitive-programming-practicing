@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1487749813 source:e:\baitap\w29b\main.cpp
+	<iostream>
+	<algorithm>
+	<string>
+	<vector>
+

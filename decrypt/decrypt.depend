@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488893786 source:e:\baitap\decrypt\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+

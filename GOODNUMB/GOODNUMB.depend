@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481336751 source:e:\baitap\goodnumb\main.cpp
+	<stdio.h>
+	<math.h>
+	<algorithm>
+

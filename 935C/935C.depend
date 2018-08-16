@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520292999 source:e:\baitap\935c\main.cpp
+	<iostream>
+	<math.h>
+	<stdio.h>
+
