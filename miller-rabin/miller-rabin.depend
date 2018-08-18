@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1488070369 source:e:\baitap\miller-rabin\main.cpp
-	<iostream>
-	<cstring>
-	<cstdlib>
-

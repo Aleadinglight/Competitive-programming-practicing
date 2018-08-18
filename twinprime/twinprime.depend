@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1486410001 source:e:\baitap\twinprime\main.c
-	<stdio.h>
-	<stdlib.h>
-	<math.h>
-	<time.h>
-
